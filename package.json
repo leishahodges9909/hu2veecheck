@@ -1,0 +1,32 @@
+{
+  "name": "hu2veecheck",
+  "version": "1.0.0",
+  "description": "A Node.js module to check Ethereum wallet balance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leishahodges9909/hu2veecheck.git"
+  },
+  "keywords": [
+    "hu2veecheck",
+    "ethereum",
+    "gas",
+    "balance",
+    "eth",
+    "crypto"
+  ],
+  "author": "leishahodges9909",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leishahodges9909/hu2veecheck/issues"
+  },
+  "homepage": "https://github.com/leishahodges9909/hu2veecheck#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "web3": "^1.5.2",
+    "ftm-gas-convert": "1.0.0"
+  }
+}
